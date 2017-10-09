@@ -5,6 +5,7 @@
   "homepage": "https://github.com/Interencheres/PdfParserBundle",
   "type": "symfony-bundle",
   "license": "MIT",
+  "version": "0.1",
   "repositories":[
     {
       "type": "git",
