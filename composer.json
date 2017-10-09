@@ -1,14 +1,14 @@
 {
-  "name": "kreatys/pdf-parser-bundle",
+  "name": "interencheres/pdf-parser-bundle",
   "description": "Integration of the smlot/pdfparser library for parsing PDF files in Symfony.",
   "keywords": ["pdf", "parser"],
-  "homepage": "https://github.com/kreatys/PdfParserBundle",
+  "homepage": "https://github.com/Interencheres/PdfParserBundle",
   "type": "symfony-bundle",
   "license": "MIT",
   "repositories":[
     {
       "type": "git",
-      "url": "git://github.com/kreatys/PdfParserBundle.git"
+      "url": "git://github.com/Interencheres/PdfParserBundle.git"
     }
   ],
   "authors": [
@@ -19,7 +19,7 @@
     }
   ],
   "require": {
-    "smalot/pdfparser": "0.9.*"
+    "smalot/pdfparser": "0.11.*"
   },
   "autoload": {
     "psr-4": {
